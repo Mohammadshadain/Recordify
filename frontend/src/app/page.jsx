@@ -163,8 +163,8 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="mb-4 md:mb-0">
-              <h2 className={`${local.className} text-2xl`}>Screen Snap</h2>
-              <p className="text-sm text-gray-400">© 2024 Screen Snap. All rights reserved.</p>
+              <h2 className={`${local.className} text-2xl`}>Recordify</h2>
+              <p className="text-sm text-gray-400">© 2024 Recordify. All rights reserved.</p>
             </div>
             <div className="flex space-x-4">
               <Link href="/about" className="hover:text-blue-300">About</Link>

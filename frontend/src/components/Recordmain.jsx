@@ -88,7 +88,7 @@ export default function RecordComponent() {
   return (
     <div className="container mx-auto px-4 py-8 bg-gradient-to-br from-gray-100 to-blue-100 min-h-screen">
       <h1 className="text-4xl font-bold mb-8 text-center bg-gradient-to-r from-blue-600 to-teal-400 text-transparent bg-clip-text">
-        Screen Snap 
+        Recordify
         {/* project name */}
       </h1>
       <ReactMediaRecorder

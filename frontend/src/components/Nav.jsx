@@ -24,7 +24,7 @@ export default function Nav() {
           <div className="flex-shrink-0 flex items-center">
             <Link href="/" className="flex items-center">
               <img src="/images/record-button.svg" alt="" className="h-8 w-8 mr-2" />
-              <span className="font-bold text-lg text-gray-900">Screen Snap</span>
+              <span className="font-bold text-lg text-gray-900">Recordify</span>
             </Link>
           </div>
           <div className="hidden sm:ml-6 sm:flex sm:space-x-8">

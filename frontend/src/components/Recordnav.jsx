@@ -59,7 +59,8 @@ const Recordnav = () => {
   return (
     <div className='bg-gradient-to-br from-gray-100 to-blue-100 rounded-2xl w-full shadow-lg'>
       <div className='flex flex-col p-4 md:p-8 space-y-5'>
-        <h2 className='font-bold text-2xl md:text-3xl text-gray-800'>Free online screen recorder</h2>
+        <h2 className='font-bold text-2xl md:text-3xl text-gray-800'>Free online screen recorder</h2> 
+        {/* sub title */}
 
         <div className='bg-white p-3 rounded-2xl shadow-md'>
           <ul className='flex flex-wrap justify-center md:justify-start gap-4 md:gap-10 font-medium text-sm'>

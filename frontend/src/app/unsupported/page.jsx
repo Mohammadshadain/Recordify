@@ -5,7 +5,7 @@ export default function UnsupportedDevice() {
   return (
     <div className="container mx-auto px-4 py-8 bg-gradient-to-br from-gray-100 to-blue-100 min-h-screen flex flex-col justify-center items-center">
       <h1 className="text-4xl font-bold mb-8 text-center bg-gradient-to-r from-blue-600 to-teal-400 text-transparent bg-clip-text">
-        Screen Snap
+        Recordify
       </h1>
       <div className="bg-white p-8 rounded-xl shadow-lg max-w-2xl w-full">
         <h2 className="text-2xl font-semibold mb-4 text-gray-800">Device Not Supported</h2>
@@ -25,7 +25,7 @@ export default function UnsupportedDevice() {
         </div>
         <h3 className="text-xl font-semibold mb-4 text-gray-800">What you can do:</h3>
         <ul className="list-disc list-inside space-y-2 text-gray-600 mb-6">
-          <li>Access Screen Snap from a desktop computer or laptop</li>
+          <li>Access Recordify from a desktop computer or laptop</li>
           <li>Use a desktop browser like Chrome, Firefox, or Edge</li>
           <li>Ensure your desktop browser is up to date</li>
           <li>Check back later for mobile support updates</li>
